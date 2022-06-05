@@ -1,0 +1,32 @@
+terminal windows - comandos básicos
+
+dir - lista os conteúdos dentro da pasta atual
+
+cd nomeDaPasta - muda a pasta atual
+
+cd .. - volta para a pasta anterior
+
+cls - limpa o terminal
+
+mkdir nomeDaPasta - cria uma nova pasta
+
+del nomeDaPasta - exclui somente os arquivos de uma pasta e não a pasta
+
+rmdir nomeDaPasta - exclui a pasta
+
+mv nomeDoArquivo ./nomePasta/ - move o arquivo para a pasta desejada
+
+cat nomeDoArquivo.extensaoArquivo - visualiza o conteúdo do arquivo
+
+
+Atalhos:
+
+TAB - auto completa a palavra escrita
+
+
+
+
+
+
+
+
