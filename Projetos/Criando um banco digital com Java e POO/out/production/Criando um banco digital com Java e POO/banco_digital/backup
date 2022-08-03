@@ -1,0 +1,13 @@
+        Cliente samuel = new Cliente();
+        samuel.setNome("Samuel");
+
+        ContaCorrente cc = new ContaCorrente(samuel);
+        cc.depositar(100);
+
+        ContaPoupanca cp = new ContaPoupanca(samuel);
+
+        cc.transferir(100, cp);
+
+        cc.imprimirExtrato();
+        System.out.println("");
+        cp.imprimirExtrato();

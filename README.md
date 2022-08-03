@@ -6,6 +6,6 @@
   <li>Módulo 1 - Conteúdo de Abertura :heavy_check_mark:</li>
   <li>Módulo 2 - HTML/CSS/JS :heavy_check_mark:</li>
   <li>Módulo 3 - Angular :heavy_check_mark:</li>
-  <li>Módulo 4 - JAVA :black_circle:</li>
-  <li>Módulo 5 - Spring Framework :white_circle:</li>
+  <li>Módulo 4 - JAVA :heavy_check_mark:</li>
+  <li>Módulo 5 - Spring Framework :black_circle:</li>
 </ul>
