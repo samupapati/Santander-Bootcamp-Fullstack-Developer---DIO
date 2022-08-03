@@ -1,0 +1,2 @@
+teste
+conteúdo arquivo.txt
